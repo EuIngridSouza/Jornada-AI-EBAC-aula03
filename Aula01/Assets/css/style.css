@@ -1,0 +1,79 @@
+#navbarNav {
+    justify-content: right;
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+#ai-nav-1 {
+    background-color: #590964;
+}
+
+.navbar-brand {
+    color: whitesmoke;
+    font-size: 30px
+}
+
+.nav-link {
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.ai-titles {
+    font-family: 'Poiret One', sans-serif;
+}
+
+#ai-heading-1 {
+    margin: 20px;
+}
+
+#ai-refers,
+#ai-aplication, #ai-conclusion {
+    margin: 50px;
+}
+
+section{
+    text-align: justify;
+}
+li{
+    list-style: none;
+}
+p{
+    font-size: 18px;
+}
+
+footer {
+    display:flex;
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+    bottom: 0px;
+    font-size: 12px;
+    padding: 10px;
+    background-color: #230925;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color:whitesmoke
+}
+
+.ai-footer-logo{
+    display: flex;
+    justify-content: end;
+    width: 40%;
+    height: 100%;
+    padding-right: 40px;
+}
+.ai-footer-info{
+    display: flexbox;
+    margin-bottom: 1%;
+    width: 45%;
+}
