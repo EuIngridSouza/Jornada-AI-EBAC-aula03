@@ -4,21 +4,21 @@
 👩‍💻 Projeto criado para a Aula 02 da Jornada AI - EBAC.
 
 
-
 ## 🎯Objetivo
 Este projeto teve como objetivo desenvolver um arquivo utils.js para exemplificação do conteúdi e um script RNA.js (parte I), como o conteúdo de introdução sobre o conceito de Rede Neural Artificial .
 
 
 
 ## 🔗 Links
-Link do projeto: 
+Repositórios da Jornada AI: 
 
 AULA 01
 <br>
-https://euingridsouza.github.io/Jornada-AI-EBAC-aula01/
+https://github.com/EuIngridSouza/Jornada-AI-EBAC-aula02.git
 
 AULA 02
 <br>
+https://github.com/EuIngridSouza/Jornada-AI-EBAC-aula02.git
 
 
 
