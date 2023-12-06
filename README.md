@@ -15,7 +15,7 @@ Link do projeto:
 
 AULA 01
 <br>
-https://euingridsouza.github.io/desafio-github/#
+https://euingridsouza.github.io/Jornada-AI-EBAC-aula01/
 
 AULA 02
 <br>
